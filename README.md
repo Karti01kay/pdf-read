@@ -1,5 +1,4 @@
-  
-![Featured Image - My PDF Talker](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205321/1_mraqdy.png)
+  ![Featured Image - My PDF Talker](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205321/1_mraqdy.png)
 
   
 # Steps on how to run  
@@ -41,3 +40,10 @@ The code is inside the 'app.py' file.
 ```
 chainlit run app.py
 ```
+
+
+# Screenshots to show the working:
+![SS1](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205321/1_mraqdy.png)
+![SS2](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205737/2_rmqrfg.png)
+![SS3](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205737/3_gxvir3.png)
+![SS4](https://res.cloudinary.com/dkddubkcn/image/upload/v1720205737/4_butorj.png)
