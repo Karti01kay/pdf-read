@@ -27,9 +27,8 @@ api_key = Your COHERE API KEY1
 You can obtain the API key by visiting: https://dashboard.cohere.com/api-keys
 
 5) Download the Model Parameter File
-```
+   
 https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q4_K_M.gguf
-```
 Download the model file from the above link and save it to the current working directory, i.e., inside the <project-name> folder.
   
 6) Code Implementation
